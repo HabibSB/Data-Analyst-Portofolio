@@ -7,6 +7,8 @@ https://github.com/HabibSB/Data-Analyst-Portofolio/blob/main/Project%20Excel/dat
 
 # Database and Tools:
 1. MS-EXCEL
+   ![Screenshot 2024-02-05 204250](https://github.com/HabibSB/Data-Analyst-Portofolio/assets/153071447/f7002ba9-9c3f-4ad8-9ba1-eecbd2ae7d6f)
+   
    
 3. PIVOT TABLES AND CHARTS
 4. SLICERS, etc.
