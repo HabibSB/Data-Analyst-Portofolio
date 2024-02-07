@@ -15,7 +15,11 @@ Then I use pivot table and lookup function  to analyze data, make clicer for the
 ![dashboard](https://github.com/HabibSB/Data-Analyst-Portofolio/assets/153071447/c03152ef-4dfe-41dd-b7b4-07aef319a650)
 This the dasboard i have made using Microsoft Excel.
 
-# INSIGHTS:
+# INSIGHTS AND RECOMENDATION : 
+-Focus on promoting and delivering high-net profit products.
+-Consider implementing a dynamic pricing strategy based on delivery demand.
+-Implement improvements to address common customer concerns
+-Identify and address areas of high operational expenses.
 
 \
 
