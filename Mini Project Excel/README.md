@@ -1,4 +1,4 @@
-#Delivery Overview
+# Delivery Overview
 
 In this project i used sample database from Data Analyst's Toolbox course in Udemy by Vardges Zardaryan. I used this dataset to study and implement my skill. Dataset its about a delivery company. The company have five online shop in 5 states in USA. The company provides services of delivery foods, clothing, and houshold appliances. For each delivery ,company get from the delivery fee which is the rate from the cost of the product. The goal of this analysis is making recomendation to the top of company to make optimal desicions for increasing profit  I have done Data cleaning, Data Processing, Data Analysis and making dashboard using Microsoft Excel.
 
